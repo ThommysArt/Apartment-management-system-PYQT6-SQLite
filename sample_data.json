@@ -1,0 +1,580 @@
+{
+  "apartments": [
+    {
+      "apartment_number": 101,
+      "status": "occupied"
+    },
+    {
+      "apartment_number": 102,
+      "status": "occupied"
+    },
+    {
+      "apartment_number": 103,
+      "status": "vacant"
+    },
+    {
+      "apartment_number": 104,
+      "status": "occupied"
+    },
+    {
+      "apartment_number": 105,
+      "status": "vacant"
+    },
+    {
+      "apartment_number": 106,
+      "status": "occupied"
+    },
+    {
+      "apartment_number": 107,
+      "status": "vacant"
+    },
+    {
+      "apartment_number": 108,
+      "status": "occupied"
+    },
+    {
+      "apartment_number": 109,
+      "status": "vacant"
+    },
+    {
+      "apartment_number": 110,
+      "status": "occupied"
+    }
+  ],
+  "bills": [
+      {
+          "bill_id": 1,
+          "amount": 500,
+          "due_date": "2023-01-31",
+          "details": "Electricity bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 2,
+          "amount": 200,
+          "due_date": "2023-01-31",
+          "details": "Water bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 3,
+          "amount": 150,
+          "due_date": "2023-02-28",
+          "details": "Garbage collection fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 4,
+          "amount": 300,
+          "due_date": "2023-02-28",
+          "details": "Maintenance fee",
+          "user_id": 3
+      },
+      {
+          "bill_id": 5,
+          "amount": 500,
+          "due_date": "2023-03-31",
+          "details": "Electricity bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 6,
+          "amount": 200,
+          "due_date": "2023-03-31",
+          "details": "Water bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 7,
+          "amount": 150,
+          "due_date": "2023-04-30",
+          "details": "Garbage collection fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 8,
+          "amount": 300,
+          "due_date": "2023-04-30",
+          "details": "Maintenance fee",
+          "user_id": 2
+      },
+      {
+          "bill_id": 9,
+          "amount": 500,
+          "due_date": "2023-05-31",
+          "details": "Electricity bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 10,
+          "amount": 200,
+          "due_date": "2023-05-31",
+          "details": "Water bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 11,
+          "amount": 150,
+          "due_date": "2023-06-30",
+          "details": "Garbage collection fee",
+          "user_id": 2
+      },
+      {
+          "bill_id": 12,
+          "amount": 300,
+          "due_date": "2023-06-30",
+          "details": "Maintenance fee",
+          "user_id": 3
+      },
+      {
+          "bill_id": 13,
+          "amount": 500,
+          "due_date": "2023-07-31",
+          "details": "Electricity bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 14,
+          "amount": 200,
+          "due_date": "2023-07-31",
+          "details": "Water bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 15,
+          "amount": 150,
+          "due_date": "2023-08-31",
+          "details": "Garbage collection fee",
+          "user_id": 3
+      },
+      {
+          "bill_id": 16,
+          "amount": 300,
+          "due_date": "2023-08-31",
+          "details": "Maintenance fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 17,
+          "amount": 500,
+          "due_date": "2023-09-30",
+          "details": "Electricity bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 18,
+          "amount": 200,
+          "due_date": "2023-09-30",
+          "details": "Water bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 19,
+          "amount": 150,
+          "due_date": "2023-10-31",
+          "details": "Garbage collection fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 20,
+          "amount": 300,
+          "due_date": "2023-10-31",
+          "details": "Maintenance fee",
+          "user_id": 2
+      },
+      {
+          "bill_id": 21,
+          "amount": 500,
+          "due_date": "2023-11-30",
+          "details": "Electricity bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 22,
+          "amount": 200,
+          "due_date": "2023-11-30",
+          "details": "Water bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 23,
+          "amount": 150,
+          "due_date": "2023-12-31",
+          "details": "Garbage collection fee",
+          "user_id": 2
+      },
+      {
+          "bill_id": 24,
+          "amount": 300,
+          "due_date": "2023-12-31",
+          "details": "Maintenance fee",
+          "user_id": 3
+      },
+      {
+          "bill_id": 25,
+          "amount": 500,
+          "due_date": "2024-01-31",
+          "details": "Electricity bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 26,
+          "amount": 200,
+          "due_date": "2024-01-31",
+          "details": "Water bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 27,
+          "amount": 150,
+          "due_date": "2024-02-29",
+          "details": "Garbage collection fee",
+          "user_id": 3
+      },
+      {
+          "bill_id": 28,
+          "amount": 300,
+          "due_date": "2024-02-29",
+          "details": "Maintenance fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 29,
+          "amount": 500,
+          "due_date": "2024-03-31",
+          "details": "Electricity bill",
+          "user_id": 2
+      },
+      {
+          "bill_id": 30,
+          "amount": 200,
+          "due_date": "2024-03-31",
+          "details": "Water bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 31,
+          "amount": 150,
+          "due_date": "2024-04-30",
+          "details": "Garbage collection fee",
+          "user_id": 1
+      },
+      {
+          "bill_id": 32,
+          "amount": 300,
+          "due_date": "2024-04-30",
+          "details": "Maintenance fee",
+          "user_id": 2
+      },
+      {
+          "bill_id": 33,
+          "amount": 500,
+          "due_date": "2024-05-31",
+          "details": "Electricity bill",
+          "user_id": 3
+      },
+      {
+          "bill_id": 34,
+          "amount": 200,
+          "due_date": "2024-05-31",
+          "details": "Water bill",
+          "user_id": 1
+      },
+      {
+          "bill_id": 35,
+          "amount": 150,
+          "due_date": "2024-06-30",
+          "details": "Garbage collection fee",
+          "user_id": 2
+      }
+  ],
+    
+  
+
+
+  "payments": [
+    {
+      "payment_id": 1,
+      "amount": 500,
+      "date": "2023-01-10",
+      "bill_id": 1
+    },
+    {
+      "payment_id": 2,
+      "amount": 200,
+      "date": "2023-01-15",
+      "bill_id": 2
+    },
+    {
+      "payment_id": 3,
+      "amount": 150,
+      "date": "2023-02-18",
+      "bill_id": 3
+    },
+    {
+      "payment_id": 4,
+      "amount": 300,
+      "date": "2023-02-25",
+      "bill_id": 4
+    },
+    {
+      "payment_id": 5,
+      "amount": 500,
+      "date": "2023-03-08",
+      "bill_id": 5
+    },
+    {
+      "payment_id": 6,
+      "amount": 200,
+      "date": "2023-03-12",
+      "bill_id": 6
+    },
+    {
+      "payment_id": 7,
+      "amount": 150,
+      "date": "2023-04-20",
+      "bill_id": 7
+    },
+    {
+      "payment_id": 8,
+      "amount": 300,
+      "date": "2023-04-25",
+      "bill_id": 8
+    },
+    {
+      "payment_id": 9,
+      "amount": 500,
+      "date": "2023-05-08",
+      "bill_id": 9
+    },
+    {
+      "payment_id": 10,
+      "amount": 200,
+      "date": "2023-05-12",
+      "bill_id": 10
+    },
+    {
+      "payment_id": 11,
+      "amount": 150,
+      "date": "2023-06-20",
+      "bill_id": 11
+    },
+    {
+      "payment_id": 12,
+      "amount": 300,
+      "date": "2023-06-25",
+      "bill_id": 12
+    },
+    {
+      "payment_id": 13,
+      "amount": 500,
+      "date": "2023-07-08",
+      "bill_id": 13
+    },
+    {
+      "payment_id": 14,
+      "amount": 200,
+      "date": "2023-07-12",
+      "bill_id": 14
+    },
+    {
+      "payment_id": 15,
+      "amount": 150,
+      "date": "2023-08-20",
+      "bill_id": 15
+    },
+    {
+      "payment_id": 16,
+      "amount": 300,
+      "date": "2023-08-25",
+      "bill_id": 16
+    },
+    {
+      "payment_id": 17,
+      "amount": 500,
+      "date": "2023-09-08",
+      "bill_id": 17
+    },
+    {
+      "payment_id": 18,
+      "amount": 200,
+      "date": "2023-09-12",
+      "bill_id": 18
+    },
+    {
+      "payment_id": 19,
+      "amount": 150,
+      "date": "2023-10-20",
+      "bill_id": 19
+    },
+    {
+      "payment_id": 20,
+      "amount": 300,
+      "date": "2023-10-25",
+      "bill_id": 20
+    },
+    {
+      "payment_id": 21,
+      "amount": 500,
+      "date": "2023-11-08",
+      "bill_id": 21
+    },
+    {
+      "payment_id": 22,
+      "amount": 200,
+      "date": "2023-11-12",
+      "bill_id": 22
+    },
+    {
+      "payment_id": 23,
+      "amount": 150,
+      "date": "2023-12-20",
+      "bill_id": 23
+    },
+    {
+      "payment_id": 24,
+      "amount": 300,
+      "date": "2023-12-25",
+      "bill_id": 24
+    },
+    {
+      "payment_id": 25,
+      "amount": 500,
+      "date": "2024-01-08",
+      "bill_id": 25
+    },
+    {
+      "payment_id": 26,
+      "amount": 200,
+      "date": "2024-01-07",
+      "bill_id": 26
+    },
+
+    {
+      "payment_id": 27,
+      "amount": 150,
+      "date": "2024-01-12",
+      "bill_id": 26
+    },
+    {
+      "payment_id": 28,
+      "amount": 300,
+      "date": "2024-02-20",
+      "bill_id": 27
+    },
+    {
+      "payment_id": 29,
+      "amount": 500,
+      "date": "2024-02-25",
+      "bill_id": 28
+    },
+    {
+      "payment_id": 30,
+      "amount": 200,
+      "date": "2024-03-08",
+      "bill_id": 29
+    },
+    {
+      "payment_id": 31,
+      "amount": 150,
+      "date": "2024-03-12",
+      "bill_id": 30
+    },
+    {
+      "payment_id": 32,
+      "amount": 300,
+      "date": "2024-04-20",
+      "bill_id": 31
+    },
+    {
+      "payment_id": 33,
+      "amount": 500,
+      "date": "2024-04-25",
+      "bill_id": 32
+    },
+    {
+      "payment_id": 34,
+      "amount": 200,
+      "date": "2024-05-08",
+      "bill_id": 33
+    },
+    {
+      "payment_id": 35,
+      "amount": 150,
+      "date": "2024-05-12",
+      "bill_id": 34
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "name": "John Smith",
+      "email": "john@example.com",
+      "debts": 0,
+      "apartment_number": 101
+    },
+    {
+      "user_id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah@example.com",
+      "debts": 0,
+      "apartment_number": 102
+    },
+    {
+      "user_id": 3,
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "debts": 0,
+      "apartment_number": 103
+    },
+    {
+      "user_id": 4,
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "debts": 0,
+      "apartment_number": 104
+    },
+    {
+      "user_id": 5,
+      "name": "David Wilson",
+      "email": "david@example.com",
+      "debts": 0,
+      "apartment_number": 105
+    },
+    {
+      "user_id": 6,
+      "name": "Olivia Taylor",
+      "email": "olivia@example.com",
+      "debts": 0,
+      "apartment_number": 106
+    },
+    {
+      "user_id": 7,
+      "name": "James Anderson",
+      "email": "james@example.com",
+      "debts": 0,
+      "apartment_number": 107
+    },
+    {
+      "user_id": 8,
+      "name": "Sophia Martinez",
+      "email": "sophia@example.com",
+      "debts": 0,
+      "apartment_number": 108
+    },
+    {
+      "user_id": 9,
+      "name": "Daniel Clark",
+      "email": "daniel@example.com",
+      "debts": 0,
+      "apartment_number": 109
+    },
+    {
+      "user_id": 10,
+      "name": "Ava Thomas",
+      "email": "ava@example.com",
+      "debts": 0,
+      "apartment_number": 110
+    }
+  ]
+}

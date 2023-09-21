@@ -1,0 +1,48 @@
+
+QStackedWidget{
+    background-color: #dfebf2;
+    color: #000;
+    font-family: Trebuchet MS;
+}
+
+QWidget {
+    background-color: #dfe9f2;
+    color: #000;
+    font-family: Trebuchet MS;
+}
+
+QTabWidget {
+    background-color: inherit;
+    color: #000;
+    border: #000;
+    font-family: Trebuchet MS;
+} 
+
+QLineEdit {
+    border: none;
+    background-color: #b9d5ed;
+    border-radius: 4px;
+    padding: 2px;
+    border-radius: 10px;
+    font-family: Trebuchet MS;
+}
+
+QPushButton {
+    border: none;
+    background-color: #3d92d8;
+    border-radius: 4px;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: Trebuchet MS;
+}
+
+QPushButton:hover{
+    background-color: #143b5f;
+    border: 1px solid #fff;
+}
+
+QTableWidget {
+    border-radius: 10px;
+    font-family: Trebuchet MS;
+}
+

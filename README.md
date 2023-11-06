@@ -32,5 +32,5 @@ HOW TO RUN THE APP
 To run the app, open the terminal to the project's directory, copy and paste the follwing code there, and hit enter.
 
 ```plaintext
-python main.py runserver
+python main.py
 ```
